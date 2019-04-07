@@ -13,3 +13,5 @@ ns=s+h+d-p;
 printf("\nTotal salary o my income=%lf",ns);
 getch();
 }
+
+//This is a testing for commiting file.
